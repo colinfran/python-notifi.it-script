@@ -6,7 +6,7 @@ steps to get this script working
  `cd C:\Users\<userName>\AppData\Local\Programs\Python\Python310\Scripts`
 - run command `pip install requests`. Once finished, you can close command prompt
 - download the [iOS app](https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred_2x.png) or [Android app](https://play.google.com/store/apps/details?id=it.notifi.notifi) for Notifi.it
-- Once downloaded open the app, it should display the key you can use for push notifications
+- After you have downloaded the phone app, open the app, it should display the key you can use for push notifications
 - Download the script from this repository, open script and adjust necessary values. Save script
 - Ensure script works by double clicking on file and verifying notification is sent to your phone
 - Right click on script and create shortcut.
