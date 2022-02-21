@@ -2,9 +2,9 @@
  
 steps to get this script working
 - download and install python3 from https://www.python.org/downloads/
-- using command prompt, get to python script directory by doing the command 
+- once python is installed, using command prompt, get to python script directory by doing the command 
  `cd C:\Users\<userName>\AppData\Local\Programs\Python\Python310\Scripts`
-- run command `pip install requests`
+- run command `pip install requests`. Cnce finished, you can close command prompt
 - download the [iOS app](https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred_2x.png) or [Android app](https://play.google.com/store/apps/details?id=it.notifi.notifi) for Notifi.it
 - Once downloaded open the app, it should display the key you can use for push notifications
 - Download the script from this repository, open script and adjust necessary values. Save script
